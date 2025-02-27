@@ -539,6 +539,9 @@
         <mxCell id="d3jaYPxE1VoOU1mabuzJ-56" value="&quot;What is the meaning of the Chinese character represented by this oracle bone script image?&quot;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1805.5" y="150" width="131" height="131" as="geometry" />
         </mxCell>
+        <mxCell id="d3jaYPxE1VoOU1mabuzJ-57" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Fin-tuned&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Florence&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2011.5" y="-349.5" width="174" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
