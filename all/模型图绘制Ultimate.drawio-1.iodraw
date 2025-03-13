@@ -599,8 +599,11 @@
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-19" value="Locate the phrases in the caption : oracle-bone script" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="305.76" y="1382.5" width="260" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-22" value="“answer”:&quot;安&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-22" value="answer:&quot;安&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1484.5" y="1182" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-23" value="answer：Oracle - bone script character&lt;div&gt;(293,317.5,320,635)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1484.5" y="1240" width="120" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
