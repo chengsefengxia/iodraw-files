@@ -602,8 +602,8 @@
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-22" value="answer:&quot;安&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1490" y="1190" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-24" value="answer：&quot;This character consists of ‘宀’ (representing a house) and ‘女’ (representing a woman), symbolizing a woman inside a house, which conveys the idea of peace and stability. In Oracle Bone Script, the &#39;女&#39; component is more pictorial and often depicted in a kneeling posture.&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1024.75" width="300" height="121" as="geometry" />
+        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-24" value="answer：&quot;This character consists of ‘宀’ (representing a house) and ‘女’ (representing a woman), symbolizing a woman inside a house, which conveys the idea of peace and stability. In Oracle Bone Script, the &#39;女&#39; component is more pictorial and often depicted in a kneeling posture.&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1495.5" y="1034" width="300" height="121" as="geometry" />
         </mxCell>
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-28" value="" style="shape=mxgraph.signs.nature.sun_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="654.5" y="1248" width="34.5" height="34" as="geometry" />
@@ -618,13 +618,13 @@
           <mxGeometry x="1153.5" y="1069.5" width="30" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-35" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Frozen&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trainable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1490" width="190" height="40" as="geometry" />
+          <mxGeometry x="1050" y="1394" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-36" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1496" width="30" height="28" as="geometry" />
+          <mxGeometry x="1060" y="1400" width="30" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-37" value="" style="shape=mxgraph.signs.nature.sun_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1065.5" y="1493" width="34.5" height="34" as="geometry" />
+          <mxGeometry x="1145.5" y="1397" width="34.5" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
