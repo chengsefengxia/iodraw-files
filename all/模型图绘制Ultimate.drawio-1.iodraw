@@ -605,11 +605,8 @@
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-24" value="answer：&quot;This character consists of ‘宀’ (representing a house) and ‘女’ (representing a woman), symbolizing a woman inside a house, which conveys the idea of peace and stability. In Oracle Bone Script, the &#39;女&#39; component is more pictorial and often depicted in a kneeling posture.&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1484.5" y="1030.5" width="300" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun" vertex="1" parent="1">
-          <mxGeometry x="810" y="1230" width="100" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-27" value="" style="shape=mxgraph.signs.nature.sun_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1230" width="98" height="98" as="geometry" />
+          <mxGeometry x="785.5" y="1410" width="98" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
