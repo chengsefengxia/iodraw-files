@@ -602,7 +602,7 @@
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-22" value="answer:&quot;安&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1490" y="1201" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-23" value="&lt;div style=&quot;orphans: 4; text-align: start;&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&quot;answer&quot;: &quot;This character consists of ‘宀’ (representing a house) and ‘女’ (representing a woman), symbolizing a woman inside a house, which conveys the idea of peace and stability. In Oracle Bone Script, the &#39;女&#39; component is more pictorial and often depicted in a kneeling posture.&quot;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-23" value="&lt;div style=&quot;orphans: 4; text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1500" y="1020" width="340" height="150" as="geometry" />
         </mxCell>
       </root>
