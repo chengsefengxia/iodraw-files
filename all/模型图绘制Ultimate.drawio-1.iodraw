@@ -612,7 +612,13 @@
           <mxGeometry x="654.5" y="1064.5" width="30" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-33" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="664.5" y="1074.5" width="30" height="28" as="geometry" />
+          <mxGeometry x="1050" y="1071.25" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-34" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1153.5" y="1069.5" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
