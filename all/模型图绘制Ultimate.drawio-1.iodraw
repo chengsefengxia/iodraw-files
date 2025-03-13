@@ -623,6 +623,9 @@
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-36" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="964.5" y="1506" width="30" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="Nd0RAK5pEhZtuEy7G6xR-37" value="" style="shape=mxgraph.signs.nature.sun_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1072.25" y="1503" width="34.5" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
