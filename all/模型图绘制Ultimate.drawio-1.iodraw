@@ -606,10 +606,10 @@
           <mxGeometry x="1484.5" y="1030.5" width="300" height="121" as="geometry" />
         </mxCell>
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-28" value="" style="shape=mxgraph.signs.nature.sun_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="654.5" y="1060" width="34.5" height="34" as="geometry" />
+          <mxGeometry x="654.5" y="1248" width="34.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Nd0RAK5pEhZtuEy7G6xR-29" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1630" width="30" height="28" as="geometry" />
+          <mxGeometry x="654.5" y="1064.5" width="30" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
