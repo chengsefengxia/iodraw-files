@@ -25,14 +25,14 @@
         <mxCell id="mm3Gok4E618d6gmRVimI-4" value="Locate the phrases in the caption : oracle-bone script" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="mm3Gok4E618d6gmRVimI-1">
           <mxGeometry x="27" y="159.5" width="260" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="mm3Gok4E618d6gmRVimI-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="107" width="311.53" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="mm3Gok4E618d6gmRVimI-9" value="&amp;lt;Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mm3Gok4E618d6gmRVimI-7">
+          <mxGeometry x="25.75999999999999" y="23" width="260" height="38" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-8" value="&amp;lt;More Detailed Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="295.76" y="209" width="260" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-9" value="&amp;lt;Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="295.76" y="130" width="260" height="38" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-10" value="&amp;lt;object Detection&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="295.76" y="288.5" width="260" height="38" as="geometry" />
