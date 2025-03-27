@@ -47,16 +47,16 @@
           <mxGeometry x="440" y="160" width="460" height="170" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-130" width="120" height="247" as="geometry" />
+          <mxGeometry x="330" y="100.5" width="160" height="239.5" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-23" value="what is the font structure of this oracle bone character?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mm3Gok4E618d6gmRVimI-21">
-          <mxGeometry x="9.922639874169418" y="26" width="100.15086829518827" height="38" as="geometry" />
+          <mxGeometry x="13.230186498892557" y="25.210526315789473" width="133.53449106025104" height="36.84615384615385" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-22" value="What is the meaning of this oracle bone character?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="mm3Gok4E618d6gmRVimI-21">
-          <mxGeometry x="9.922639874169418" y="105" width="100.15086829518827" height="38" as="geometry" />
+          <mxGeometry x="13.230186498892557" y="101.81174089068826" width="133.53449106025104" height="36.84615384615385" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-24" value="Locate the phrases in the caption : oracle-bone script" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="mm3Gok4E618d6gmRVimI-21">
-          <mxGeometry x="9.922639874169418" y="180" width="100.15086829518827" height="38" as="geometry" />
+          <mxGeometry x="13.230186498892557" y="174.5344129554656" width="133.53449106025104" height="36.84615384615385" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
