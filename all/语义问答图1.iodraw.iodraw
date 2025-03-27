@@ -28,10 +28,10 @@
         <mxCell id="mm3Gok4E618d6gmRVimI-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=1;rotatable=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="114" width="132" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-9" value="&amp;lt;Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="mm3Gok4E618d6gmRVimI-7">
+        <mxCell id="mm3Gok4E618d6gmRVimI-9" value="&amp;lt;Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-7">
           <mxGeometry x="10.91" y="26" width="110.17" height="59.51" as="geometry" />
         </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-8" value="&amp;lt;More Detailed Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="mm3Gok4E618d6gmRVimI-7">
+        <mxCell id="mm3Gok4E618d6gmRVimI-8" value="&amp;lt;More Detailed Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mm3Gok4E618d6gmRVimI-7">
           <mxGeometry x="10.91" y="126" width="110.17" height="54.7" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-15" value="What is the meaning of this oracle bone character?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
