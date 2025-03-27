@@ -34,12 +34,6 @@
         <mxCell id="mm3Gok4E618d6gmRVimI-8" value="&amp;lt;More Detailed Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mm3Gok4E618d6gmRVimI-7">
           <mxGeometry x="6.618181818181824" y="131.72727272727272" width="66.76969696969697" height="57.18636363636363" as="geometry" />
         </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-15" value="What is the meaning of this oracle bone character?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="510" y="485" width="260" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-17" value="Locate the phrases in the caption : oracle-bone script" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="510" y="564.5" width="260" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-18" value="“成”" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="120" width="460" height="20" as="geometry" />
         </mxCell>
@@ -50,10 +44,10 @@
           <mxGeometry x="334" y="110" width="106" height="230" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-23" value="what is the font structure of this oracle bone character?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-21">
-          <mxGeometry x="8.770542168674696" y="130" width="88.46530120481927" height="60" as="geometry" />
+          <mxGeometry x="8.770542168674698" y="130" width="88.46530120481928" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-22" value="What is the meaning of this oracle bone character?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-21">
-          <mxGeometry x="8.772413793103448" y="30" width="88.4643103448276" height="53.16" as="geometry" />
+          <mxGeometry x="8.772413793103448" y="30" width="88.46431034482761" height="53.16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
