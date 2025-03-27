@@ -97,8 +97,8 @@
         <mxCell id="mm3Gok4E618d6gmRVimI-42" value="What is the meaning of this oracle bone character?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-40">
           <mxGeometry x="8.772413793103448" y="30" width="88.46431034482761" height="53.16" as="geometry" />
         </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-43" value="f" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry y="-250" width="830" height="260" as="geometry" />
+        <mxCell id="mm3Gok4E618d6gmRVimI-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
