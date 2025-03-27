@@ -37,6 +37,9 @@
         <mxCell id="mm3Gok4E618d6gmRVimI-10" value="&amp;lt;object Detection&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="mm3Gok4E618d6gmRVimI-7">
           <mxGeometry x="10.91490386158636" y="161.65991902834008" width="110.1659551247071" height="33.84615384615385" as="geometry" />
         </mxCell>
+        <mxCell id="mm3Gok4E618d6gmRVimI-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
