@@ -50,10 +50,10 @@
           <mxGeometry x="334" y="110" width="116" height="230" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-23" value="what is the font structure of this oracle bone character?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;" vertex="1" parent="mm3Gok4E618d6gmRVimI-21">
-          <mxGeometry x="-0.0020481927710855885" y="150" width="96.81108433734939" height="60" as="geometry" />
+          <mxGeometry x="9.597951807228913" y="130" width="96.81108433734939" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-22" value="What is the meaning of this oracle bone character?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;" vertex="1" parent="mm3Gok4E618d6gmRVimI-21">
-          <mxGeometry x="9.59867469879518" y="30" width="96.81108433734939" height="53.16" as="geometry" />
+          <mxGeometry x="9.6" y="30" width="96.81" height="53.16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
