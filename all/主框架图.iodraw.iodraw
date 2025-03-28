@@ -192,11 +192,11 @@
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-61" value="“般”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1790" y="975" width="440" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-62" value="This oracle bone character features a square frame at the upper left, connected below to a vertical line intersected by converging diagonal strokes, evoking the imagery of a hand gripping or manipulating an object. The right side forms a curved structure with a wide opening and a tapered base, resembling a vessel or a boat-shaped support stand." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="1070" width="440" height="140" as="geometry" />
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-62" value="&lt;span style=&quot;text-align: left;&quot;&gt;{&quot;boxes_label&quot;:&quot;oracle - bone script&quot;,&quot;boxes_x&quot;:&quot;63.38&quot;,&quot;boxes_y&quot;:&quot;66.26&quot;,&quot;boxes_width&quot;:&quot;54.32&quot;,&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&quot;boxes_height&quot;:&quot;124.43&quot;,&quot;height&quot;:130,&quot;key&quot;:&quot;127001h13492.jpg&quot;,&quot;width&quot;:130}&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1070" width="440" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-63" value="&amp;lt;Object Detection&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hdQbIqp1aPQ1-t-bFB_q-62">
-          <mxGeometry width="440" height="20" as="geometry" />
+          <mxGeometry width="440" height="15.714285714285714" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
