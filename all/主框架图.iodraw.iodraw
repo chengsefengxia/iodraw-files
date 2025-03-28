@@ -165,10 +165,10 @@
           <mxGeometry x="1290" y="1070" width="440" height="23" as="geometry" />
         </mxCell>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-53" value="&amp;lt;Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="930" width="440" height="20" as="geometry" />
+          <mxGeometry x="1250" y="920" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-54" value="“般”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="950" width="440" height="20" as="geometry" />
+          <mxGeometry x="1250" y="940" width="440" height="20" as="geometry" />
         </mxCell>
         <UserObject label="{&#xa;    &quot;boxes&quot;: [&#xa;        {&#xa;            &quot;id&quot;: &quot;1&quot;,&#xa;            &quot;label&quot;: &quot;oracle - bone script&quot;,&#xa;            &quot;x&quot;: &quot;63.38&quot;,&#xa;            &quot;y&quot;: &quot;66.26&quot;,&#xa;            &quot;width&quot;: &quot;54.32&quot;,&#xa;            &quot;height&quot;: &quot;124.43&quot;&#xa;        }&#xa;    ],&#xa;    &quot;height&quot;: 130,&#xa;    &quot;key&quot;: &quot;127001h13492.jpg&quot;,&#xa;    &quot;width&quot;: 130&#xa;}" link="{&#xa;    &quot;boxes&quot;: [&#xa;        {&#xa;            &quot;id&quot;: &quot;1&quot;,&#xa;            &quot;label&quot;: &quot;oracle - bone script&quot;,&#xa;            &quot;x&quot;: &quot;63.38&quot;,&#xa;            &quot;y&quot;: &quot;66.26&quot;,&#xa;            &quot;width&quot;: &quot;54.32&quot;,&#xa;            &quot;height&quot;: &quot;124.43&quot;&#xa;        }&#xa;    ],&#xa;    &quot;height&quot;: 130,&#xa;    &quot;key&quot;: &quot;127001h13492.jpg&quot;,&#xa;    &quot;width&quot;: 130&#xa;}" id="hdQbIqp1aPQ1-t-bFB_q-56">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
@@ -181,10 +181,16 @@
           </mxCell>
         </UserObject>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-58" value="This oracle bone character features a square frame at the upper left, connected below to a vertical line intersected by converging diagonal strokes, evoking the imagery of a hand gripping or manipulating an object. The right side forms a curved structure with a wide opening and a tapered base, resembling a vessel or a boat-shaped support stand." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=1;" vertex="1" parent="1">
-          <mxGeometry x="1214" y="1130" width="440" height="140" as="geometry" />
+          <mxGeometry x="1200" y="1210" width="440" height="140" as="geometry" />
         </mxCell>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-59" value="&amp;lt;Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hdQbIqp1aPQ1-t-bFB_q-58">
           <mxGeometry width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-60" value="&amp;lt;Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="930" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-61" value="“般”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="950" width="440" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
