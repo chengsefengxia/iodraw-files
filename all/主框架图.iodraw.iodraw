@@ -219,6 +219,9 @@
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-71" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Results&lt;/b&gt;&lt;/span&gt;" style="shape=singleArrow;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1125" y="970" width="93.5" height="115" as="geometry" />
         </mxCell>
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hdQbIqp1aPQ1-t-bFB_q-72" target="hdQbIqp1aPQ1-t-bFB_q-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-72" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Box&amp;nbsp;Prompts&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1689.9999999999998" y="1019.61" width="120" height="36.5" as="geometry" />
         </mxCell>
@@ -226,7 +229,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-75" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Fine-tuned&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Obsflo&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="985" width="90" height="110" as="geometry" />
+          <mxGeometry x="1830" y="982.86" width="90" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
