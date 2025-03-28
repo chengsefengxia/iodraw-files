@@ -106,7 +106,7 @@
         <mxCell id="mm3Gok4E618d6gmRVimI-59" value="Generated" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-58">
           <mxGeometry x="6.618181818181824" y="27.181818181818176" width="66.76969696969697" height="62.21499999999999" as="geometry" />
         </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-60" value="&amp;lt;More Detailed Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mm3Gok4E618d6gmRVimI-58">
+        <mxCell id="mm3Gok4E618d6gmRVimI-60" value="Reference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mm3Gok4E618d6gmRVimI-58">
           <mxGeometry x="6.618181818181824" y="131.72727272727272" width="66.76969696969697" height="57.18636363636363" as="geometry" />
         </mxCell>
       </root>
