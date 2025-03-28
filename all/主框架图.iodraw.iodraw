@@ -175,6 +175,11 @@
             <mxGeometry x="1690" y="1170" width="230" height="240" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="{&quot;boxes_label&quot;:&quot;oracle - bone script&quot;,&quot;boxes_x&quot;:&quot;63.38&quot;,&quot;boxes_y&quot;:&quot;66.26&quot;,&quot;boxes_width&quot;:&quot;54.32&quot;,&quot;boxes_height&quot;:&quot;124.43&quot;,&quot;height&quot;:130,&quot;key&quot;:&quot;127001h13492.jpg&quot;,&quot;width&quot;:130}" link="{&quot;boxes_label&quot;:&quot;oracle - bone script&quot;,&quot;boxes_x&quot;:&quot;63.38&quot;,&quot;boxes_y&quot;:&quot;66.26&quot;,&quot;boxes_width&quot;:&quot;54.32&quot;,&quot;boxes_height&quot;:&quot;124.43&quot;,&quot;height&quot;:130,&quot;key&quot;:&quot;127001h13492.jpg&quot;,&quot;width&quot;:130}" id="hdQbIqp1aPQ1-t-bFB_q-57">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="1390" y="1180" width="560" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
