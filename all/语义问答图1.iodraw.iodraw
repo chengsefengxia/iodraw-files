@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="UOw6paD81RMuhueX3_dz">
-    <mxGraphModel dx="2911" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2915" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="mm3Gok4E618d6gmRVimI-36" value="&amp;lt;Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-35">
           <mxGeometry x="6.618181818181824" y="27.181818181818176" width="66.76969696969697" height="62.21499999999999" as="geometry" />
         </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-37" value="&amp;lt;More Detailed Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="mm3Gok4E618d6gmRVimI-35">
+        <mxCell id="mm3Gok4E618d6gmRVimI-37" value="&amp;lt;More Detailed Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="mm3Gok4E618d6gmRVimI-35">
           <mxGeometry x="6.618181818181824" y="131.72727272727272" width="66.76969696969697" height="57.18636363636363" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-38" value="“典”" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;flipH=1;" vertex="1" parent="mm3Gok4E618d6gmRVimI-55">
@@ -88,7 +88,7 @@
         <mxCell id="mm3Gok4E618d6gmRVimI-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=1;flipH=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-55">
           <mxGeometry x="334" y="40" width="106" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="mm3Gok4E618d6gmRVimI-41" value="what is the font structure of this oracle bone character?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-40">
+        <mxCell id="mm3Gok4E618d6gmRVimI-41" value="what is the font structure of this oracle bone character?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-40">
           <mxGeometry x="8.770542168674698" y="130" width="88.46530120481928" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mm3Gok4E618d6gmRVimI-42" value="What is the meaning of this oracle bone character?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="mm3Gok4E618d6gmRVimI-40">
