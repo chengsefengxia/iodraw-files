@@ -177,9 +177,15 @@
         </UserObject>
         <UserObject label="{&quot;boxes_label&quot;:&quot;oracle - bone script&quot;,&quot;boxes_x&quot;:&quot;63.38&quot;,&quot;boxes_y&quot;:&quot;66.26&quot;,&quot;boxes_width&quot;:&quot;54.32&quot;,&#xa;&quot;boxes_height&quot;:&quot;124.43&quot;,&quot;height&quot;:130,&quot;key&quot;:&quot;127001h13492.jpg&quot;,&quot;width&quot;:130}" link="{&quot;boxes_label&quot;:&quot;oracle - bone script&quot;,&quot;boxes_x&quot;:&quot;63.38&quot;,&quot;boxes_y&quot;:&quot;66.26&quot;,&quot;boxes_width&quot;:&quot;54.32&quot;,&quot;boxes_height&quot;:&quot;124.43&quot;,&quot;height&quot;:130,&quot;key&quot;:&quot;127001h13492.jpg&quot;,&quot;width&quot;:130}" id="hdQbIqp1aPQ1-t-bFB_q-57">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="1250" y="1140" width="560" height="50" as="geometry" />
+            <mxGeometry x="1230" y="1280" width="560" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-58" value="This oracle bone character features a square frame at the upper left, connected below to a vertical line intersected by converging diagonal strokes, evoking the imagery of a hand gripping or manipulating an object. The right side forms a curved structure with a wide opening and a tapered base, resembling a vessel or a boat-shaped support stand." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1093" width="440" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-59" value="&amp;lt;Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hdQbIqp1aPQ1-t-bFB_q-58">
+          <mxGeometry width="440" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
