@@ -158,8 +158,8 @@
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="1135" y="1240" width="420" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1340" width="120" height="60" as="geometry" />
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-48" value="This oracle bone character features a square frame at the upper left, connected below to a vertical line intersected by converging diagonal strokes, evoking the imagery of a hand gripping or manipulating an object. The right side forms a curved structure with a wide opening and a tapered base, resembling a vessel or a boat-shaped support stand." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1303.5" y="1160" width="440" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
