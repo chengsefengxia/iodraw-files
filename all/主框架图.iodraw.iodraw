@@ -172,7 +172,7 @@
         </mxCell>
         <UserObject label="{&#xa;    &quot;boxes&quot;: [&#xa;        {&#xa;            &quot;id&quot;: &quot;1&quot;,&#xa;            &quot;label&quot;: &quot;oracle - bone script&quot;,&#xa;            &quot;x&quot;: &quot;63.38&quot;,&#xa;            &quot;y&quot;: &quot;66.26&quot;,&#xa;            &quot;width&quot;: &quot;54.32&quot;,&#xa;            &quot;height&quot;: &quot;124.43&quot;&#xa;        }&#xa;    ],&#xa;    &quot;height&quot;: 130,&#xa;    &quot;key&quot;: &quot;127001h13492.jpg&quot;,&#xa;    &quot;width&quot;: 130&#xa;}" link="{&#xa;    &quot;boxes&quot;: [&#xa;        {&#xa;            &quot;id&quot;: &quot;1&quot;,&#xa;            &quot;label&quot;: &quot;oracle - bone script&quot;,&#xa;            &quot;x&quot;: &quot;63.38&quot;,&#xa;            &quot;y&quot;: &quot;66.26&quot;,&#xa;            &quot;width&quot;: &quot;54.32&quot;,&#xa;            &quot;height&quot;: &quot;124.43&quot;&#xa;        }&#xa;    ],&#xa;    &quot;height&quot;: 130,&#xa;    &quot;key&quot;: &quot;127001h13492.jpg&quot;,&#xa;    &quot;width&quot;: 130&#xa;}" id="hdQbIqp1aPQ1-t-bFB_q-56">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="1690" y="1170" width="230" height="240" as="geometry" />
+            <mxGeometry x="1910" y="1190" width="230" height="240" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="{&quot;boxes_label&quot;:&quot;oracle - bone script&quot;,&quot;boxes_x&quot;:&quot;63.38&quot;,&quot;boxes_y&quot;:&quot;66.26&quot;,&quot;boxes_width&quot;:&quot;54.32&quot;,&#xa;&quot;boxes_height&quot;:&quot;124.43&quot;,&quot;height&quot;:130,&quot;key&quot;:&quot;127001h13492.jpg&quot;,&quot;width&quot;:130}" link="{&quot;boxes_label&quot;:&quot;oracle - bone script&quot;,&quot;boxes_x&quot;:&quot;63.38&quot;,&quot;boxes_y&quot;:&quot;66.26&quot;,&quot;boxes_width&quot;:&quot;54.32&quot;,&quot;boxes_height&quot;:&quot;124.43&quot;,&quot;height&quot;:130,&quot;key&quot;:&quot;127001h13492.jpg&quot;,&quot;width&quot;:130}" id="hdQbIqp1aPQ1-t-bFB_q-57">
@@ -197,6 +197,9 @@
         </mxCell>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-63" value="&amp;lt;Object Detection&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hdQbIqp1aPQ1-t-bFB_q-62">
           <mxGeometry width="440" height="15.714285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
