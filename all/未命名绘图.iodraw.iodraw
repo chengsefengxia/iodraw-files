@@ -79,8 +79,8 @@
         <mxCell id="SdxoShiT3vpKD1EjRf_A-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="940" y="762" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SdxoShiT3vpKD1EjRf_A-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;text +location&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;tokens&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="800" width="110" height="50" as="geometry" />
+        <mxCell id="SdxoShiT3vpKD1EjRf_A-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;text&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;tokens&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="800" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SdxoShiT3vpKD1EjRf_A-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-100" y="818" width="311.53" height="170" as="geometry" />
