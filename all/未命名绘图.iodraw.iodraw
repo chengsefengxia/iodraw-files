@@ -107,13 +107,13 @@
           <mxGeometry x="749" y="671.5" width="30" height="28" as="geometry" />
         </mxCell>
         <mxCell id="SdxoShiT3vpKD1EjRf_A-33" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Frozen&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trainable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="645.5" y="996" width="190" height="40" as="geometry" />
+          <mxGeometry x="510" y="996" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SdxoShiT3vpKD1EjRf_A-34" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="655.5" y="1002" width="30" height="28" as="geometry" />
+          <mxGeometry x="520" y="1002" width="30" height="28" as="geometry" />
         </mxCell>
         <mxCell id="SdxoShiT3vpKD1EjRf_A-35" value="" style="shape=mxgraph.signs.nature.sun_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="741" y="999" width="34.5" height="34" as="geometry" />
+          <mxGeometry x="605.5" y="999" width="34.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="SdxoShiT3vpKD1EjRf_A-36" value="answer:&quot;成&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1030" y="936" width="219" height="60" as="geometry" />
