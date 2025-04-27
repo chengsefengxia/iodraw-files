@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="FoxT92bRLg2XdJJPmROE">
-    <mxGraphModel dx="1425" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1589" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-45" value="This oracle bone character features a square frame at the upper left, connected below to a vertical line intersected by converging diagonal strokes, evoking the imagery of a hand gripping or manipulating an object. The right side forms a curved structure with a wide opening and a tapered base, resembling a vessel or a boat-shaped support stand." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="1443" width="450" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-48" value="This oracle bone character features a square frame at the upper left, connected below to a vertical line intersected by converging diagonal strokes, evoking the imagery of a hand gripping or manipulating an object. The right side forms a curved structure with a wide opening and a tapered base, resembling a vessel or a boat-shaped support stand." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=1;" parent="1" vertex="1">
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-48" value="This oracle bone character features a square frame at the upper left, connected below to a vertical line intersected by converging diagonal strokes, evoking the imagery of a hand gripping or manipulating an object. The right side forms a curved structure with a wide opening and a tapered base, resembling a vessel or a boat-shaped support stand." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1230" y="930" width="440" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-49" value="&amp;lt;Detailed Caption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="hdQbIqp1aPQ1-t-bFB_q-48" vertex="1">
