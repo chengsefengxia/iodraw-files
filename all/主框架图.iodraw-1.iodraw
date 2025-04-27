@@ -195,7 +195,7 @@
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-61" value="“般”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1730" y="1460" width="440" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-62" value="&lt;span style=&quot;text-align: left;&quot;&gt;{&quot;boxes_label&quot;:&quot;oracle - bone script&quot;,&quot;boxes_x&quot;:&quot;63.38&quot;,&quot;boxes_y&quot;:&quot;66.26&quot;,&quot;boxes_width&quot;:&quot;54.32&quot;,&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&quot;boxes_height&quot;:&quot;124.43&quot;,&quot;height&quot;:130,&quot;key&quot;:&quot;127001h13492.jpg&quot;,&quot;width&quot;:130}......&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=1;" parent="1" vertex="1">
+        <mxCell id="hdQbIqp1aPQ1-t-bFB_q-62" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; {&#39;&amp;lt;OD&amp;gt;&#39;: {&#39;bboxes&#39;: [[22.814998626708984, 22.16499900817871, 97.82499694824219, 114.07499694824219]], &#39;labels&#39;: [&#39;oracle-bone script&#39;]}}&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=1;" parent="1" vertex="1">
           <mxGeometry x="1230" y="1030" width="440" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hdQbIqp1aPQ1-t-bFB_q-63" value="&amp;lt;Object Detection&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="hdQbIqp1aPQ1-t-bFB_q-62" vertex="1">
