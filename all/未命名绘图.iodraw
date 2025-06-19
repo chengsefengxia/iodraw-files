@@ -92,10 +92,10 @@
           <mxGeometry x="320" y="1080" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-52" value="数据融合" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="180" y="640" width="60" height="80" as="geometry" />
+          <mxGeometry x="180" y="650" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="665" width="20" height="50" as="geometry" />
+          <mxGeometry x="240" y="655" width="20" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
