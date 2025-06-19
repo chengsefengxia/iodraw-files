@@ -101,10 +101,10 @@
           <mxGeometry x="186.37" y="835" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-74" value="模型可视化：翻身、排泄、睡眠识别动画演示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="266.37" y="915" width="260" height="40" as="geometry" />
+          <mxGeometry x="270" y="900" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-78" value="模型可视化：翻身、排泄、睡眠识别动画演示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276.37" y="925" width="260" height="40" as="geometry" />
+          <mxGeometry x="266.37" y="830" width="260" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
