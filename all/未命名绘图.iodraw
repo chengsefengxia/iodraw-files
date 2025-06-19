@@ -260,10 +260,10 @@
           <mxGeometry x="280" y="2030" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-159" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.29215311479499145;arrowSize=0.55555419921875;" vertex="1" parent="1">
-          <mxGeometry x="103.88" y="2100" width="172.25" height="20" as="geometry" />
+          <mxGeometry x="103.87" y="2100" width="172.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-161" value="四个子系统状态圆形状态指示器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="92.38" y="2125" width="210" height="20" as="geometry" />
+          <mxGeometry x="85" y="2150" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-163" value="新系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="2040" width="84.5" height="40" as="geometry" />
