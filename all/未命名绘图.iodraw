@@ -295,8 +295,8 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-181" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="180" y="2230" width="295" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-182" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201.25" y="2260" width="252.5" height="60" as="geometry" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-182" value="&lt;strong data-end=&quot;1948&quot; data-start=&quot;1940&quot;&gt;输出一览&lt;/strong&gt;：显示“系统已部署于××院区，当前版本 v1.0”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201.25" y="2260" width="252.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
