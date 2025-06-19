@@ -140,85 +140,88 @@
           <mxGeometry x="195" y="1037.5" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-103" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;核&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;心&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;算&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;法&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;研&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;发&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="70" y="710" width="50" height="385" as="geometry" />
+          <mxGeometry x="70" y="1330" width="50" height="385" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-104" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="880" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="1500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-105" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="640" width="370" height="560" as="geometry" />
+          <mxGeometry x="180" y="1260" width="370" height="560" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-106" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="680" width="20" height="90" as="geometry" />
+          <mxGeometry x="250" y="1300" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-107" value="数据&lt;div&gt;清洗&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
-          <mxGeometry x="484.63" y="650" width="50" height="60" as="geometry" />
+          <mxGeometry x="484.63" y="1270" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据融合&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="670" width="60" height="110" as="geometry" />
+          <mxGeometry x="190" y="1290" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-110" target="VceSQ-Ktsu24SdLjBF-u-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-110" value="数据&lt;div&gt;对齐&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
-          <mxGeometry x="374" y="650" width="50" height="60" as="geometry" />
+          <mxGeometry x="374" y="1270" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-111" value="融合后样本数据表与特征分布图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="750" width="260" height="40" as="geometry" />
+          <mxGeometry x="270" y="1370" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-112" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.29215311479499145;arrowSize=0.55555419921875;" vertex="1" parent="1">
-          <mxGeometry x="312.38" y="720" width="172.25" height="20" as="geometry" />
+          <mxGeometry x="312.38" y="1340" width="172.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-114" target="VceSQ-Ktsu24SdLjBF-u-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-114" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
-          <mxGeometry x="270" y="650" width="50" height="60" as="geometry" />
+          <mxGeometry x="270" y="1270" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-115" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="830" width="20" height="70" as="geometry" />
+          <mxGeometry x="250" y="1450" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-116" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为模式学习&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="800" width="60" height="110" as="geometry" />
+          <mxGeometry x="190" y="1420" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-117" value="模型可视化：翻身、排泄、睡眠识别动画演示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="870" width="260" height="55" as="geometry" />
+          <mxGeometry x="270" y="1490" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-118" value="训练监控面板：Loss/Acc 实时曲线、训练/验证集指标对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="800" width="260" height="55" as="geometry" />
+          <mxGeometry x="270" y="1420" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-119" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="962.5" width="20" height="70" as="geometry" />
+          <mxGeometry x="250" y="1582.5" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-120" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;智能预警&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="935" width="60" height="112.5" as="geometry" />
+          <mxGeometry x="190" y="1555" width="60" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-121" value="异常事件列表（心率过高、跌落姿态）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1002.5" width="260" height="55" as="geometry" />
+          <mxGeometry x="270" y="1622.5" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-122" value="风险地图：床面体压热力图叠加高风险区域标注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="932.5" width="260" height="55" as="geometry" />
+          <mxGeometry x="270" y="1552.5" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-123" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1087.5" width="20" height="70" as="geometry" />
+          <mxGeometry x="250" y="1707.5" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-124" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个性化干预&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1067.5" width="60" height="110" as="geometry" />
+          <mxGeometry x="190" y="1687.5" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-125" value="一键下发按钮：触发护理床执行器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1127.5" width="260" height="55" as="geometry" />
+          <mxGeometry x="270" y="1747.5" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-126" value="干预方案列表：推荐动作（翻身角度、气垫模式）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1062.5" width="260" height="55" as="geometry" />
+          <mxGeometry x="270" y="1682.5" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-127" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.21111043294270834;arrowSize=0.4074069552951389;" vertex="1" parent="1">
-          <mxGeometry x="205" y="780" width="30" height="20" as="geometry" />
+          <mxGeometry x="205" y="1400" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-128" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.21111043294270834;arrowSize=0.4074069552951389;" vertex="1" parent="1">
-          <mxGeometry x="205" y="910" width="30" height="20" as="geometry" />
+          <mxGeometry x="205" y="1530" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-129" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.21111043294270834;arrowSize=0.4074069552951389;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1047.5" width="30" height="15" as="geometry" />
+          <mxGeometry x="205" y="1667.5" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-130" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;核&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;心&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;算&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;法&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;研&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;发&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1340" width="50" height="385" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
