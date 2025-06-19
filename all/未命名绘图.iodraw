@@ -29,7 +29,7 @@
           <mxGeometry x="320" y="190" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-310" width="390" height="580" as="geometry" />
+          <mxGeometry x="680" y="-100" width="390" height="580" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="535" width="390" height="580" as="geometry" />
@@ -79,13 +79,13 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-31" value="&lt;div&gt;护理床数字孪生&lt;/div&gt;生理状态建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="417.5" width="90" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-32" value="设备列表 + 连接状态指示（在线/离线/故障）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-32" value="嵌入 Three.js 三维模型视图，左下角可切换“骨架”“力学属性”“传感器”图层" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="270" y="417.5" width="50" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-34" value="点击设备展开实时心率、血氧曲线图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-34" value="多子图标签页：体压分布模型曲线、生命体征趋势图、活动状态仪表盘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="490" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
