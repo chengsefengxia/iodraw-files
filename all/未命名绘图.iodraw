@@ -238,8 +238,11 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-137" value="临床验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="1980" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-152" target="VceSQ-Ktsu24SdLjBF-u-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-152" value="预警" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2030" width="50" height="60" as="geometry" />
+          <mxGeometry x="210" y="2030" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VceSQ-Ktsu24SdLjBF-u-154" target="VceSQ-Ktsu24SdLjBF-u-152" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -252,6 +255,9 @@
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-156" value="采集" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="69.68" y="2030" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-157" value="预警" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2030" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
