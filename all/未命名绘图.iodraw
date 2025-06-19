@@ -278,7 +278,7 @@
           <mxGeometry x="400" y="2020" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-165" value="传统系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474.63" y="2040" width="84.5" height="60" as="geometry" />
+          <mxGeometry x="500" y="2040" width="84.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
