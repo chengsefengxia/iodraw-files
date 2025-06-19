@@ -76,7 +76,7 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-30" value="右侧参数面板可调增删传感节点，配置采样频率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="1022.5" width="211" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-31" value="可穿戴接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-31" value="生理状态建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="417.5" width="90" height="125" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-32" value="设备列表 + 连接状态指示（在线/离线/故障）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
