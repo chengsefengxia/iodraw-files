@@ -13,20 +13,14 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="260" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-5" target="VceSQ-Ktsu24SdLjBF-u-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-5" target="VceSQ-Ktsu24SdLjBF-u-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-5" value="传感器部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="45" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-6" value="地图/平面示意图上定位床面各传感器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="150" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="170" width="50" height="100" as="geometry" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="605" y="185" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
