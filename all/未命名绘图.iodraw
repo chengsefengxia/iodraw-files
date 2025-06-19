@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="105" width="60" height="390" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="260" width="60" height="50" as="geometry" />
+          <mxGeometry x="110" y="270" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
