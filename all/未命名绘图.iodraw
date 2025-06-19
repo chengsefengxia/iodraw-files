@@ -95,16 +95,28 @@
           <mxGeometry x="260" y="640" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="246.37" y="860" width="20" height="70" as="geometry" />
+          <mxGeometry x="244.63" y="852.5" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为模式学习&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="186.37" y="835" width="60" height="110" as="geometry" />
+          <mxGeometry x="184.63" y="827.5" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-74" value="模型可视化：翻身、排泄、睡眠识别动画演示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="266.37" y="900" width="260" height="55" as="geometry" />
+          <mxGeometry x="264.63" y="892.5" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-78" value="训练监控面板：Loss/Acc 实时曲线、训练/验证集指标对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="266.37" y="830" width="260" height="55" as="geometry" />
+          <mxGeometry x="264.63" y="822.5" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-80" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1020" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为模式学习&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
+          <mxGeometry x="185" y="995" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-82" value="模型可视化：翻身、排泄、睡眠识别动画演示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1060" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-83" value="训练监控面板：Loss/Acc 实时曲线、训练/验证集指标对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="990" width="260" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
