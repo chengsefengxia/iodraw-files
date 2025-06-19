@@ -38,13 +38,13 @@
           <mxGeometry x="180" y="262.5" width="90" height="125" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-17" value="设备列表 + 连接状态指示（在线/离线/故障）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="295" width="211" height="60" as="geometry" />
+          <mxGeometry x="320" y="255" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="280" y="302.5" width="50" height="125" as="geometry" />
+          <mxGeometry x="270" y="262.5" width="50" height="125" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-19" value="点击设备展开实时心率、血氧曲线图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="375" width="211" height="60" as="geometry" />
+          <mxGeometry x="320" y="335" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
