@@ -98,7 +98,7 @@
           <mxGeometry x="240" y="655" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-54" value="数据&lt;div&gt;清洗&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
-          <mxGeometry x="390" y="645" width="50" height="60" as="geometry" />
+          <mxGeometry x="410" y="650" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-55" target="VceSQ-Ktsu24SdLjBF-u-56">
           <mxGeometry relative="1" as="geometry" />
@@ -106,8 +106,11 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-55" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="270" y="650" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-56" target="VceSQ-Ktsu24SdLjBF-u-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-56" value="数据&lt;div&gt;对齐&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
-          <mxGeometry x="390" y="650" width="50" height="60" as="geometry" />
+          <mxGeometry x="330" y="650" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
