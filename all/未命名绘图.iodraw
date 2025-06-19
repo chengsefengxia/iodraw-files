@@ -250,7 +250,7 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VceSQ-Ktsu24SdLjBF-u-156" target="VceSQ-Ktsu24SdLjBF-u-154" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-156" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-156" value="采集" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="69.68" y="2030" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
