@@ -37,17 +37,14 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-16" value="可穿戴接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="302.5" width="90" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-17" value="地图/平面示意图上定位床面各传感器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-17" value="设备列表 + 连接状态指示（在线/离线/故障）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="270" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="50" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-19" value="实时压力/温湿度数值以热力图叠加显示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="342.5" width="211" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-20" value="右侧参数面板可调增删传感节点，配置采样频率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="415" width="211" height="60" as="geometry" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-19" value="点击设备展开实时心率、血氧曲线图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
