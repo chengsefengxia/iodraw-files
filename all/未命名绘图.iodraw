@@ -65,7 +65,7 @@
           <mxGeometry x="110" y="870" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="630" width="370" height="520" as="geometry" />
+          <mxGeometry x="170" y="630" width="370" height="560" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="670" width="20" height="90" as="geometry" />
@@ -95,40 +95,40 @@
           <mxGeometry x="260" y="640" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="244.63" y="852.5" width="20" height="70" as="geometry" />
+          <mxGeometry x="240" y="820" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为模式学习&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="184.63" y="827.5" width="60" height="110" as="geometry" />
+          <mxGeometry x="180" y="795" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-74" value="模型可视化：翻身、排泄、睡眠识别动画演示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264.63" y="892.5" width="260" height="55" as="geometry" />
+          <mxGeometry x="260" y="860" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-78" value="训练监控面板：Loss/Acc 实时曲线、训练/验证集指标对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264.63" y="822.5" width="260" height="55" as="geometry" />
+          <mxGeometry x="260" y="790" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-80" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="980" width="20" height="70" as="geometry" />
+          <mxGeometry x="240.37" y="947.5" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;智能预警&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="185" y="955" width="60" height="110" as="geometry" />
+          <mxGeometry x="180.37" y="922.5" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-82" value="异常事件列表（心率过高、跌落姿态）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="1020" width="260" height="55" as="geometry" />
+          <mxGeometry x="260.37" y="987.5" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-83" value="风险地图：床面体压热力图叠加高风险区域标注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="950" width="260" height="55" as="geometry" />
+          <mxGeometry x="260.37" y="917.5" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-87" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="244.63" y="1110" width="20" height="70" as="geometry" />
+          <mxGeometry x="240" y="1077.5" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-88" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个性化干预&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="184.63" y="1085" width="60" height="110" as="geometry" />
+          <mxGeometry x="180" y="1052.5" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-89" value="一键下发按钮：触发护理床执行器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264.63" y="1150" width="260" height="55" as="geometry" />
+          <mxGeometry x="260" y="1117.5" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-90" value="干预方案列表：推荐动作（翻身角度、气垫模式）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264.63" y="1080" width="260" height="55" as="geometry" />
+          <mxGeometry x="260" y="1047.5" width="260" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
