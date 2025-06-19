@@ -28,6 +28,9 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-13" value="右侧参数面板可调增删传感节点，配置采样频率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="211" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="130" width="390" height="580" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
