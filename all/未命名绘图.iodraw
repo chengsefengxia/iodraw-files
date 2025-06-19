@@ -233,9 +233,9 @@
           <mxGeometry x="360" y="1970" width="230" height="330" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-135" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1940" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="1940" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-136" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-136" value="系统集成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1980" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
