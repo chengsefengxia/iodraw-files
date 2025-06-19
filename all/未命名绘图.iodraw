@@ -46,7 +46,7 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-19" value="点击设备展开实时心率、血氧曲线图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="335" width="211" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-21" value="护理床数字孪生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-21" value="护理床数字孪生&lt;div&gt;生理状态建模&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="442.5" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-22" value="地图/平面示意图上定位床面各传感器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
