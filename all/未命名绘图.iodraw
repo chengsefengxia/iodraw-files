@@ -281,16 +281,16 @@
           <mxGeometry x="415" y="2090" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-173" value="优化反馈区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="2150" width="196" height="40" as="geometry" />
+          <mxGeometry x="376.25" y="2140" width="196" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-174" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="419" y="2190" width="110" height="20" as="geometry" />
+          <mxGeometry x="418.25" y="2180" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-175" value="团队/临床专家留言板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="2210" width="104.5" height="30" as="geometry" />
+          <mxGeometry x="364.75" y="2200" width="104.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-177" value="下一轮迭代任务列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474.63" y="2210" width="105.37" height="30" as="geometry" />
+          <mxGeometry x="473.88" y="2200" width="105.37" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
