@@ -256,7 +256,7 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-156" value="采集" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="69.68" y="2030" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-157" value="预警" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-157" value="干预" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="280" y="2030" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
