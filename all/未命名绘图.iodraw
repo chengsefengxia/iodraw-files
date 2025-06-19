@@ -95,7 +95,7 @@
           <mxGeometry x="180" y="650" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="655" width="20" height="115" as="geometry" />
+          <mxGeometry x="240" y="655" width="20" height="105" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-54" value="数据&lt;div&gt;清洗&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="460" y="640" width="50" height="60" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-55" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
-          <mxGeometry x="270" y="640" width="50" height="60" as="geometry" />
+          <mxGeometry x="260" y="640" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-56" target="VceSQ-Ktsu24SdLjBF-u-54">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="363.5" y="640" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-59" value="融合后样本数据表与特征分布图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="268.5" y="730" width="240" height="50" as="geometry" />
+          <mxGeometry x="268.5" y="730" width="251.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-60" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327.75" y="700" width="121.5" height="30" as="geometry" />
