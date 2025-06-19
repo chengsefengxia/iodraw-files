@@ -97,8 +97,8 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="655" width="20" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-54" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="340" y="680" width="60" height="60" as="geometry" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-54" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
