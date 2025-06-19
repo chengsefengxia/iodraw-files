@@ -1,0 +1,217 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="OV0jHIquciy3Uixvb3lJ">
+    <mxGraphModel dx="2025" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-2" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;数&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;据&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;采&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;集&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;与&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;建&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;模&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="50" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="370" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-5" value="传感器部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="77.5" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-6" value="地图/平面示意图上定位床面各传感器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="45" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="270" y="65" width="50" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-12" value="实时压力/温湿度数值以热力图叠加显示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="117.5" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-13" value="右侧参数面板可调增删传感节点，配置采样频率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-16" value="可穿戴接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="262.5" width="90" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-17" value="设备列表 + 连接状态指示（在线/离线/故障）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="255" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="270" y="262.5" width="50" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-19" value="点击设备展开实时心率、血氧曲线图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="335" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-31" value="&lt;div&gt;护理床数字孪生&lt;/div&gt;生理状态建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="417.5" width="90" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-32" value="嵌入 Three.js 三维模型视图，左下角可切换“骨架”“力学属性”“传感器”图层" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="270" y="417.5" width="50" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-34" value="多子图标签页：体压分布模型曲线、生命体征趋势图、活动状态仪表盘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-36" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;核&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;心&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;算&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;法&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;研&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;发&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="700" width="50" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="370" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="670" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-54" value="数据&lt;div&gt;清洗&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="474.63" y="640" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据融合&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-56" target="VceSQ-Ktsu24SdLjBF-u-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-56" value="数据&lt;div&gt;对齐&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="364" y="640" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-59" value="融合后样本数据表与特征分布图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="740" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-60" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.29215311479499145;arrowSize=0.55555419921875;" vertex="1" parent="1">
+          <mxGeometry x="302.38" y="710" width="172.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-64" target="VceSQ-Ktsu24SdLjBF-u-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-64" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="820" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为模式学习&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="790" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-74" value="模型可视化：翻身、排泄、睡眠识别动画演示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="860" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-78" value="训练监控面板：Loss/Acc 实时曲线、训练/验证集指标对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="790" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-80" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="952.5" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;智能预警&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="925" width="60" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-82" value="异常事件列表（心率过高、跌落姿态）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="992.5" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-83" value="风险地图：床面体压热力图叠加高风险区域标注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="922.5" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-87" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1077.5" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-88" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个性化干预&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1057.5" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-89" value="一键下发按钮：触发护理床执行器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1117.5" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-90" value="干预方案列表：推荐动作（翻身角度、气垫模式）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1052.5" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-99" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.21111043294270834;arrowSize=0.4074069552951389;" vertex="1" parent="1">
+          <mxGeometry x="195" y="770" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-100" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.21111043294270834;arrowSize=0.4074069552951389;" vertex="1" parent="1">
+          <mxGeometry x="195" y="900" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-101" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.21111043294270834;arrowSize=0.4074069552951389;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1037.5" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-130" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;系统集成和优化&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1260" width="385" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-131" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1310" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-132" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1360" width="284" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-133" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1360" width="230" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-136" value="系统集成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-137" value="临床验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1370" width="196" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-152" target="VceSQ-Ktsu24SdLjBF-u-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-152" value="预警" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1420" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VceSQ-Ktsu24SdLjBF-u-154" target="VceSQ-Ktsu24SdLjBF-u-152" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-154" value="孪生" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1420" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VceSQ-Ktsu24SdLjBF-u-156" target="VceSQ-Ktsu24SdLjBF-u-154" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-156" value="采集" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="39.68000000000001" y="1420" width="50.32" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-157" value="干预" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1420" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-159" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.29215311479499145;arrowSize=0.55555419921875;" vertex="1" parent="1">
+          <mxGeometry x="73.88000000000001" y="1510" width="172.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-161" value="四个子系统状态圆形状态指示器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1557.5" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-163" value="新系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1430" width="84.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-164" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1410" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-165" value="传统系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1430" width="84.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-167" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1460" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-168" value="“褥疮率”“跌落率”“效率提升” KPI 比较柱状图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-173" value="优化反馈区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345.5" y="1522.5" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-174" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="1552.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-175" value="团队/临床专家留言板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1572.5" width="104.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-177" value="下一轮迭代任务列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443.13" y="1572.5" width="105.37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-181" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="1620" width="295" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-182" value="&lt;strong data-end=&quot;1948&quot; data-start=&quot;1940&quot;&gt;输出一览&lt;/strong&gt;：显示“系统已部署于××院区，当前版本 v1.0”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118.13" y="1650" width="328.75" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
