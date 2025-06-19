@@ -280,8 +280,8 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-165" value="传统系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="2040" width="84.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-167" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="2010" width="50" height="100" as="geometry" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-167" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="424" y="2100" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
