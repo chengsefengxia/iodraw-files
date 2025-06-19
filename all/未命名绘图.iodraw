@@ -115,7 +115,7 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-82" value="模型可视化：翻身、排泄、睡眠识别动画演示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="1060" width="260" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-83" value="训练监控面板：Loss/Acc 实时曲线、训练/验证集指标对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-83" value="风险地图：床面体压热力图叠加高风险区域标注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="990" width="260" height="55" as="geometry" />
         </mxCell>
       </root>
