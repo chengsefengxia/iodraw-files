@@ -25,6 +25,9 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-6" value="地图/平面示意图上定位床面各传感器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="150" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
