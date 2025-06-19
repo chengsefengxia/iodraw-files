@@ -67,15 +67,6 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="630" width="370" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-45" value="设备列表 + 连接状态指示（在线/离线/故障）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="845" width="211" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-46" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="270" y="852.5" width="50" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-47" value="点击设备展开实时心率、血氧曲线图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="925" width="211" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-49" value="嵌入 Three.js 三维模型视图，左下角可切换“骨架”“力学属性”“传感器”图层" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1000" width="211" height="60" as="geometry" />
         </mxCell>
@@ -92,7 +83,7 @@
           <mxGeometry x="474.63" y="640" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据融合&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="650" width="60" height="110" as="geometry" />
+          <mxGeometry x="180" y="660" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-56" target="VceSQ-Ktsu24SdLjBF-u-54">
           <mxGeometry relative="1" as="geometry" />
@@ -111,9 +102,6 @@
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-64" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="260" y="640" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为模式学习&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="850" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-68" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;智能预警&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
           <mxGeometry x="190" y="1020" width="60" height="90" as="geometry" />
