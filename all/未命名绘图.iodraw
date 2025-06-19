@@ -112,8 +112,8 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-56" value="数据&lt;div&gt;对齐&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="363.5" y="640" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="720" width="195" height="60" as="geometry" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-59" value="融合后样本数据表与特征分布图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278.5" y="740" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
