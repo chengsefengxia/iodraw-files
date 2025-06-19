@@ -292,8 +292,11 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-174" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="419" y="2190" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-175" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="2210" width="120" height="60" as="geometry" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-175" value="团队/临床专家留言板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="2210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-176" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
