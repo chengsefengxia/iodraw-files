@@ -103,7 +103,7 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-55" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="270" y="650" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-56" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-56" value="数据&lt;div&gt;对齐&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="390" y="650" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
