@@ -110,7 +110,7 @@
           <mxGeometry x="240.37" y="947.5" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;智能预警&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180.37" y="922.5" width="60" height="110" as="geometry" />
+          <mxGeometry x="180.37" y="930" width="60" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-82" value="异常事件列表（心率过高、跌落姿态）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260.37" y="987.5" width="260" height="55" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="195" y="775" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-100" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.21111043294270834;arrowSize=0.4074069552951389;" vertex="1" parent="1">
-          <mxGeometry x="205" y="785" width="30" height="15" as="geometry" />
+          <mxGeometry x="195.37" y="907.5" width="30" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
