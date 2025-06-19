@@ -17,16 +17,16 @@
           <mxGeometry x="180" y="77.5" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-6" value="地图/平面示意图上定位床面各传感器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="30" width="211" height="60" as="geometry" />
+          <mxGeometry x="330" y="45" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="270" y="65" width="50" height="165" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-12" value="实时压力/温湿度数值以热力图叠加显示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="100" width="211" height="60" as="geometry" />
+          <mxGeometry x="330" y="117.5" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-13" value="右侧参数面板可调增删传感节点，配置采样频率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="170" width="211" height="60" as="geometry" />
+          <mxGeometry x="330" y="190" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
