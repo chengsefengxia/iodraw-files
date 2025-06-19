@@ -91,6 +91,9 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-51" value="多子图标签页：体压分布模型曲线、生命体征趋势图、活动状态仪表盘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1080" width="211" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-52" target="VceSQ-Ktsu24SdLjBF-u-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-52" value="数据融合" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="180" y="650" width="60" height="60" as="geometry" />
         </mxCell>
