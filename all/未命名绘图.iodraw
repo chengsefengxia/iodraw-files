@@ -23,10 +23,10 @@
           <mxGeometry x="270" y="65" width="50" height="165" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-12" value="实时压力/温湿度数值以热力图叠加显示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="117.5" width="211" height="60" as="geometry" />
+          <mxGeometry x="320" y="117.5" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-13" value="右侧参数面板可调增删传感节点，配置采样频率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="190" width="211" height="60" as="geometry" />
+          <mxGeometry x="320" y="190" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="-310" width="390" height="580" as="geometry" />
