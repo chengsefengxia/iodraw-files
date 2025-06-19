@@ -67,15 +67,6 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="630" width="370" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-49" value="嵌入 Three.js 三维模型视图，左下角可切换“骨架”“力学属性”“传感器”图层" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1000" width="211" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-50" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1007.5" width="50" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-51" value="多子图标签页：体压分布模型曲线、生命体征趋势图、活动状态仪表盘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1080" width="211" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="670" width="20" height="90" as="geometry" />
         </mxCell>
@@ -103,8 +94,32 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-64" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
           <mxGeometry x="260" y="640" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-68" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;智能预警&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1020" width="60" height="90" as="geometry" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="680" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-70" value="数据&lt;div&gt;清洗&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="484.63" y="650" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据融合&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=east;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-73" target="VceSQ-Ktsu24SdLjBF-u-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-73" value="数据&lt;div&gt;对齐&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="374" y="650" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-74" value="融合后样本数据表与特征分布图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="750" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-75" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.29215311479499145;arrowSize=0.55555419921875;" vertex="1" parent="1">
+          <mxGeometry x="312.38" y="720" width="172.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VceSQ-Ktsu24SdLjBF-u-77" target="VceSQ-Ktsu24SdLjBF-u-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-77" value="原始&lt;div&gt;数据&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
