@@ -292,8 +292,8 @@
         <mxCell id="VceSQ-Ktsu24SdLjBF-u-177" value="下一轮迭代任务列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="473.13" y="2182.5" width="105.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VceSQ-Ktsu24SdLjBF-u-181" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1830" width="50" height="100" as="geometry" />
+        <mxCell id="VceSQ-Ktsu24SdLjBF-u-181" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2295" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
