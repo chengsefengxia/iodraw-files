@@ -91,12 +91,6 @@
         <mxCell id="QN44xj81XaBOmH53P8nC-30" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="410.77" y="91.5" width="30" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="QN44xj81XaBOmH53P8nC-31" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="785.5" y="98.25" width="30" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="QN44xj81XaBOmH53P8nC-32" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="889" y="96.5" width="30" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="QN44xj81XaBOmH53P8nC-33" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Frozen&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;trainable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="650" y="421" width="190" height="40" as="geometry" />
         </mxCell>
@@ -114,6 +108,9 @@
         </mxCell>
         <mxCell id="lLOW9Rn1fs1EpR1g_O54-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;lt;Caption&amp;gt;What is the meaning of this oracle bone character?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="57.879999999999995" y="342" width="275.76" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="3k-B4sQu4OKWGM-sfZ0X-1" value="" style="shape=mxgraph.signs.nature.sun_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="755.5" y="434" width="34.5" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
